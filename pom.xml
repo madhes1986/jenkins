@@ -19,7 +19,7 @@
 		<java.version>11</java.version>
 		<h2.version>1.4.200</h2.version>
 		<flyway.version>6.3.1</flyway.version>
-		<maven.compiler.version>3.6.0</maven.compiler.version>
+		<maven.compiler.version>3.5.1</maven.compiler.version>
 		<hibernate-jcache.version>5.4.10.Final</hibernate-jcache.version>
 	</properties>
 
