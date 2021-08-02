@@ -4,10 +4,9 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FegoApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
+public class FegoApplicationTests {
+     public static void main(String[] args) {
+	        	Test.run(Application.class, args);
+     }
 
 }
